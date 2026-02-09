@@ -1,10 +1,10 @@
 export const CONFIG = {
-  branding: {
-    name: "Liberfi",
-    logo: "/brand.png",
+  "branding": {
+    "name": "VortexSwap",
+    "logo": "/logo.svg"
   },
-  colors: {
-    bullish: "#c7ff2e",
-    bearish: "#f76816",
-  },
+  "colors": {
+    "bullish": "#059437",
+    "bearish": "#d56307"
+  }
 };

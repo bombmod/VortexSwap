@@ -1,16 +1,16 @@
 @theme {
-  --color-bullish: #c7ff2e;
-  --color-bearish: #f76816;
-  /* --color-primary: hsl(var(--heroui-primary));
-  --color-primary-foreground: hsl(var(--heroui-primary-foreground));
-  --color-primary-50: hsl(var(--heroui-primary-50));
-  --color-primary-100: hsl(var(--heroui-primary-100));
-  --color-primary-200: hsl(var(--heroui-primary-200));
-  --color-primary-300: hsl(var(--heroui-primary-300));
-  --color-primary-400: hsl(var(--heroui-primary-400));
-  --color-primary-500: hsl(var(--heroui-primary-500));
-  --color-primary-600: hsl(var(--heroui-primary-600));
-  --color-primary-700: hsl(var(--heroui-primary-700));
-  --color-primary-800: hsl(var(--heroui-primary-800));
-  --color-primary-900: hsl(var(--heroui-primary-900)); */
+  --color-primary-50: #f1fbfe;
+  --color-primary-100: #e3f7fc;
+  --color-primary-200: #beedf9;
+  --color-primary-300: #94e2f5;
+  --color-primary-400: #60d3f0;
+  --color-primary-500: #2dc5eb;
+  --color-primary-600: #14acd2;
+  --color-primary-700: #108dad;
+  --color-primary-800: #0c677e;
+  --color-primary-900: #094c5d;
+  --color-primary: #14b0d7;
+  --color-primary-foreground: #FFFFFF;
+  --color-bullish: #059437;
+  --color-bearish: #d56307;
 }
